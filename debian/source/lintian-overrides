@@ -1,0 +1,3 @@
+# this is just an HTML file, from the upstream maintainer's website, used during tests
+libfeed-find-perl source: source-is-missing [t/data/link.html]
+libfeed-find-perl source: very-long-line-length-in-source-file 2896 > 512 [t/data/link.html:221]
